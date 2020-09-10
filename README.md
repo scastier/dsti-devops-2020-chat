@@ -1,5 +1,5 @@
 
-# DSTI chat application
+# DSTI chat application modified by SC
 
 This chat application will allow us to communicate toguether in an insecure way.
 
